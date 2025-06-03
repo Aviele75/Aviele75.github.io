@@ -39,3 +39,16 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Dashboard Overview:** 
 ![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
+
+# Project 4 
+
+**Title:** [Shipping Trend Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Shopping%20Trends.xlsx)							
+							
+**Tools Used:** Microsoft Excel - Pivot Table, Slicer,
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Shipping_Trend_Analysis_Report](Shipping_Trend_Analysis_Report.PNG)
