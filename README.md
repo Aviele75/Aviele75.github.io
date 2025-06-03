@@ -52,3 +52,16 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Dashboard Overview:** 
 ![Shipping_Trend_Analysis_Report](Shipping_Trend_Analysis_Report.PNG)
+
+# Project 5 
+
+**Title:** [Auto Car Dealer Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
+
+**Tools Used:** PowerBI
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
