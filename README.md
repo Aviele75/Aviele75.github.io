@@ -65,3 +65,16 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Dashboard Overview:** 
 ![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
+
+# Project 6 
+
+**Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
+
+**Tools Used:** PowerBI
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Olympic_Game_Report](Olympic_Game_Report.PNG)
