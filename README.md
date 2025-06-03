@@ -26,3 +26,16 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:**
  
 **Technology used:** SQL server
+
+# Project 3 
+
+**Title:** [HR Employee Attrition Report 2012-2022](https://github.com/Aviele75/Aviele75.github.io/blob/main/HR%20EMPLOYEE%20ATTRITION.pbix)														
+
+**Tools Used:** PowerBI
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
