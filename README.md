@@ -68,6 +68,20 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 6 
 
+**Title:** [Cardiology Patient Medical Analysis Report- 2023](https://github.com/Aviele75/Aviele75.github.io/blob/main/Cardiology%20Patient%20Analysis%20Report%202023.xlsx)							
+							
+**Tools Used:** Microsoft Excel - Pivot Table, Slicer,
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
+
+
+# Project 7 
+
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
 **Tools Used:** PowerBI
