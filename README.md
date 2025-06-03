@@ -92,3 +92,17 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Dashboard Overview:** 
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
+
+
+# Project 8 
+
+**Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
+
+**Tools Used:** PowerBI
+
+**Project Description:** 
+
+**Key findings:**
+
+**Dashboard Overview:** 
+![Mental_Health_Analysis_Report](Mental_Health_Analysis_Report.PNG)
