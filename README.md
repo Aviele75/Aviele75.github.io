@@ -69,6 +69,7 @@ This sales performance dashboard stands as a vital tool for the management team 
 ![VindaStore](VindaStore.PNG)
 
 
+
 # Project 2
 
 **Title:** Sales Record-SQL Data Manipulation and Interogation
