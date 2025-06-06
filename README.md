@@ -5,16 +5,14 @@
 **Tools Used:** Microsoft Excel - Data Cleaning, Data Analysis, Charts, Pivot Table, Slicer,Timeline
 
 **Project Description:** 
-This project focused on analyzing the product sales data of Vrinda Store for the year 2022, with the primary objective of uncovering sales trends and performance patterns across multiple dimensions. The analysis was developed into an interactive dashboard that offers stakeholders a detailed, user-friendly view of key business metrics, enabling data-driven decision-making and strategic planning.
-
-**Dashboard Features**
-
-The dashboard presents a suite of insightful features designed to monitor and evaluate store performance effectively:
+This project focused on analyzing the product sales data of Vrinda Store for the year 2022, with the primary objective of uncovering sales trends and performance patterns across multiple dimensions. The analysis was developed into an interactive dashboard that offers stakeholders a detailed, user-friendly view of key business metrics, enabling data-driven decision-making and strategic planning. The dashboard includes the following features:
 
 **•	Key Performance Indicators (KPIs):**
 
 o	Total Sales
+
 o	Total Order Quantity
+
 o	Average Order Quantity per Customer
 
 **•	Top 5 States by Sales Revenue:**
