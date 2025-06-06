@@ -88,11 +88,61 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Title:** [HR Employee Attrition Report 2012-2022](https://github.com/Aviele75/Aviele75.github.io/blob/main/HR%20EMPLOYEE%20ATTRITION.pbix)														
 
-**Tools Used:** PowerBI
+**Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers, scroller, Bookmark and page navigation.
 
-**Project Description:** 
+**Project Description:** This project focused on the comprehensive analysis of human resource (HR) data related to employee attrition, spanning a ten-year period from 2012 to 2022. The primary objective was to uncover trends, patterns, and potential factors contributing to staff turnover, with the aim of empowering organizational stakeholders to make informed, data-driven decisions regarding workforce management and retention strategies.
+
+The result of this analysis is an interactive and user-friendly dashboard designed to provide clear visibility into key performance indicators (KPIs) and underlying causes of employee attrition. It incorporates multiple dimensions of the workforce, such as age, overtime hours, job roles, salary, and marital status, offering a holistic view of the HR landscape.
+
+The dashboard incorporates a range of critical metrics and visual representations to facilitate easy data interpretation. Key features include:
+
+**Total Employees:** The overall headcount within the organization.
+
+**Total Salary:** The cumulative salary paid across the workforce.
+
+**Active and Inactive Employees:** Segmentation of currently employed and former staff who have left the organisation.
+
+**Average Salary:** A computed average of all employee salaries to track compensation trends.
+
+**Operational and Demographic Insights:**
+
+**Employee by Department:**  Visual representation of the number of employees within each operational department, aiding in department-level workforce planning.
+
+**Top 5 Highest Paid Employees by Educational Level:**  A breakdown of the highest-earning employees, categorized by their level of educational attainment, useful for correlating compensation with qualifications.
+
+**Active and Inactive Employees by Department:** Illustrates the distribution of current and former employees across different departments to detect departmental attrition patterns.
+
+**Hiring Trend by Year:** Year-over-year visualization of hiring activity, which helps track recruitment efforts and workforce growth.
+
+**Educational Level Distribution:** Highlights the total number of employees segmented by their educational qualifications, supporting diversity and upskilling initiatives.
+
+**Demographic Insights:**  Displays detailed demographic data including: State of residence, Age distribution, Marital status, Gender. This allows for equity-focused HR policies and culturally responsive planning.
+
+**Attrition Report:**  A key component of the dashboard, showcasing employee attrition rates segmented by critical factors such as: Job role, Educational level, Age group, Salary band, Marital status. These insights are essential for identifying high-risk groups and developing targeted retention strategies.
+
+Additionally, the dashboard is equipped with interactive features, including dynamic slicers and a time-based filter that allow users to:
+
+**Year Filter**  Enables users to isolate and analyze data for specific years, allowing focused reviews of performance and attrition trends over time.
+
+**State**  Allows for geographic drill-down to assess how different states contribute to workforce outcomes and to compare regional HR dynamics.
+
 
 **Key findings:**
+
+**1. High Attrition Rate:**
+The analysis identified departments with the highest turnover, offering visibility into areas requiring immediate HR intervention and policy enhancement.
+
+**2. Yearly Workforce Trends:**
+The dashboard revealed clear patterns in hiring and attrition across the analyzed period. These trends provide a foundation for anticipating future workforce needs and aligning HR planning accordingly.
+
+**3. Volatile Factors Influencing Attrition:**
+Several key variables—age, job roles, overtime compensation, and marital status—were identified as significant contributors to employee turnover. Understanding the volatility of these factors will help organizations to develop tailored retention strategies and adjust policies to better support workforce stability.
+
+**Conclusion:**  
+
+This dashboard report serves as a powerful analytical tool for the HR management team, delivering valuable insights into workforce behavior, organizational structure, and business alignment. It enables proactive decision-making, enhances strategic planning, and supports the implementation of data-driven policies aimed at reducing attrition and optimizing employee engagement.
+
+By offering a clear and comprehensive view of staff dynamics over a decade, the solution not only addresses immediate HR concerns but also positions the organization for long-term success in talent management.
 
 **Dashboard Overview:** 
 ![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
