@@ -250,11 +250,53 @@ The sales performance dashboard developed through this project serves as a vital
 
 **Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
 
-**Tools Used:** PowerBI
+**Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers and page navigation.
 
 **Project Description:** 
+This project focuses on analyzing mental health data of students across selected universities, with the primary aim of identifying significant trends and patterns relating to student discrimination. Specifically, it examines the extent to which discrimination impacts students' mental well-being and how various factors such as insecurity, anxiety, and depression contribute to this experience.
+
+The initiative is designed to provide stakeholders—including university administrators, mental health professionals, and policymakers—with a comprehensive and interactive dashboard. This dashboard facilitates the monitoring and analysis of key performance indicators and the broader effects of discrimination on student mental health.
+
+The dashboard is equipped with a range of metrics and visual tools, including:
+
+**Key Performance Indicators (KPIs):**
+
+**Total Number of Students**
+
+**Total Number of Universities**
+
+**Average Age of Students**
+
+**Gender Distribution of Students**
+
+**Total Number of Students by University:** Displays student population figures across each participating institution.
+
+**% Students Experiencing Discrimination by Gender:** Provides a visual representation of discrimination rates among students, segmented by gender, highlighting those most affected.
+
+**Breakdown of Discrimination Cases by Degree Major:** Illustrates how students across various fields of study experience discrimination.
+
+**Discrimination Breakdown by University:** Identifies patterns and distribution of discrimination cases within individual universities.
+
+**Discrimination Report by Key Factors:** Highlights the percentage of discrimination cases associated with core mental health triggers such as insecurity, anxiety, and depression.
+
+**The dashboard incorporates dynamic Interactive Slicers:**
+
+**Academic Year:**  Allows filtering of data based on students’ academic levels for more targeted insights.
+
+**Gender:** Enables deep dives into how discrimination trends differ across genders.
+
+**Degree Level:** Compares undergraduate and postgraduate students to assess the prevalence and severity of discrimination at different academic levels.
 
 **Key findings:**
+
+**Elevated Discrimination Rates Among Male Students:**  Contrary to common assumptions, male students were identified as the most affected group in terms of reported discrimination. This insight signals the need for more inclusive and gender-sensitive mental health support systems.
+
+**Undergraduates as the Most Affected Group:** Discrimination appears to impact undergraduate students more significantly than their postgraduate counterparts. This finding underscores the importance of introducing early mental health awareness programs and peer support initiatives at the undergraduate level.
+
+**Influential Psychological Factors:** The study identified insecurity, anxiety, and depression as the leading psychological factors driving student discrimination. Their fluctuation over time offers valuable insight into behavioral patterns and can be leveraged to adapt emotional wellness strategies and mental health interventions accordingly.
+
+**Conclusion:**
+This project delivers a powerful, data-driven tool aimed at empowering educational institutions and student wellness bodies. By providing clear, actionable insights through an interactive and user-friendly dashboard, stakeholders are better equipped to understand the scope and impact of discrimination on student mental health. The analysis supports strategic planning and policy-making, ultimately contributing to safer, more supportive academic environments.
 
 **Dashboard Overview:** 
 ![Mental_Health_Analysis_Report](Mental_Health_Analysis_Report.PNG)
