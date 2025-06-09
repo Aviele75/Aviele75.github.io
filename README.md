@@ -227,8 +227,45 @@ The sales performance dashboard developed through this project serves as a vital
 **Tools Used:** Microsoft Excel - Pivot Table, Slicer,
 
 **Project Description:** 
+This project focused on the analysis of medical data related to cardiology patients' waiting patterns throughout the year 2023. The primary objective was to assess patient satisfaction in relation to waiting times and identify key trends that could inform improvements in service delivery. By leveraging interactive dashboards, the analysis provides healthcare stakeholders with a clear overview of performance indicators and actionable insights aimed at enhancing patient experience and operational efficiency.
+
+The dashboard integrates several core Key Performance Indicators (KPIs), including:
+
+**Total Number of Patients**
+
+**Average Patient Satisfaction Rating**
+
+**Average Waiting Time**
+
+**Gender Distribution of Patients**
+
+To support dynamic data exploration, the dashboard includes the following features:
+
+**Interactive Summary and Filters:** Interact with a tabular display showing monthly data, including the number of patients and their corresponding satisfaction ratings. This allows for intuitive navigation through the dataset and highlights month-by-month trends.
+
+**Percentage of Patient Satisfaction Rating by Gender:** A visual representation displaying satisfaction ratings segmented by gender. This feature illustrates how satisfaction levels vary between male and female patients.
+
+**Age Brackets:** A breakdown of patient age distributions throughout the year, helping to identify demographic patterns in service usage.
+
+**Correlation Between Number of Patients and Waiting Time:** This component examines how patient volume influences waiting time, revealing potential bottlenecks or resource limitations.
+
+Interactive Slicers:
+
+**Days:** Filter data by specific days to analyze variations in patient attendance and wait times.
+
+**Months:** Offers a trend view of patient volume and wait time on a monthly basis, assisting stakeholders in recognizing high-demand periods and low-traffic intervals.
 
 **Key findings:**
+
+**Patient Satisfaction Rating:** The overall average satisfaction rating for the year was 5.6.  Notably, the lowest satisfaction levels were recorded in February and March, whereas the highest ratings occurred in September and October. This trend suggests that while certain periods saw improvements in service delivery, there is still considerable room for enhancement. Emphasis should be placed on sustaining high performance during peak months and addressing the challenges experienced earlier in the year.
+
+**Increase in Patient Volume:**  Data indicates a higher number of male patients compared to females. This finding underscores the need for better resource planning and the possible acquisition of advanced medical equipment to support growing demand and enhance operational readiness.
+
+**Average Waiting Time:** The average waiting time across the year was recorded at 36 minutes, a figure that may be considered suboptimal. This relatively long wait time may be attributable to underlying systemic or logistical issues. Addressing these challenges will require adaptive strategies and targeted interventions aimed at reducing wait times and improving overall patient experience.
+
+**Conclusion:**
+
+This dashboard serves as a vital tool for healthcare professionals and management teams. By presenting data in an accessible and interactive format, it facilitates informed decision-making, enhances strategic planning, and supports continuous improvement efforts. Ultimately, the insights derived from this analysis are instrumental in driving patient-centered care and operational excellence within cardiology units.
 
 **Dashboard Overview:** 
 ![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
@@ -258,7 +295,7 @@ This project presents a comprehensive analysis of historical Olympic Games data 
 
 **Number of Participants in Winter and Summer Olympics**
 
-**To enhance interactivity and user experience, the dashboard includes the following key components:**
+To enhance interactivity and user experience, the dashboard includes the following key components:
 
 **Top 10 Countries with the Most Athletes:** Highlights the countries with the highest number of athlete participation over the reviewed period.
 
@@ -268,7 +305,7 @@ This project presents a comprehensive analysis of historical Olympic Games data 
 
 **Top 6 Athletes with the Most Medals:** Showcases individual athletes who have excelled by winning the highest number of medals throughout the games.
 
-**Interactive Slicers:**
+Interactive Slicers:
 
 **Season Filter:** Allows users to filter data by Summer or Winter Olympics to compare metrics accordingly.
 
