@@ -238,11 +238,53 @@ The sales performance dashboard developed through this project serves as a vital
 
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
-**Tools Used:** PowerBI
+**Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers and page navigation.
+
 
 **Project Description:** 
+This project presents a comprehensive analysis of historical Olympic Games data spanning from 1896 to 2016, with a focus on identifying trends and patterns in track and field events. The primary objective is to offer valuable insights into key performance metrics, contextualized by notable historical events that may have influenced participation and outcomes. The final deliverable is an interactive dashboard designed to help stakeholders easily monitor and assess the performance of athletes and countries across various editions of the Olympic Games.
+
+**The analysis covers several critical Key Performance Indicators (KPIs), including:**
+
+**Total Number of Participants**
+
+**Total Number of Participating Countries**
+
+**Gender Distribution**
+
+**Total Number of Events**
+
+**Total Number of Games**
+
+**Number of Participants in Winter and Summer Olympics**
+
+**To enhance interactivity and user experience, the dashboard includes the following key components:**
+
+**Top 10 Countries with the Most Athletes:** Highlights the countries with the highest number of athlete participation over the reviewed period.
+
+**Gender Participation Percentage:** Offers a visual breakdown of participant numbers by gender, indicating the distribution and dominant gender in participation rates.
+
+**Top 10 Countries with the Most Medals:** Displays the countries that have consistently achieved the highest medal counts during the period under review.
+
+**Top 6 Athletes with the Most Medals:** Showcases individual athletes who have excelled by winning the highest number of medals throughout the games.
+
+**Interactive Slicers:**
+
+**Season Filter:** Allows users to filter data by Summer or Winter Olympics to compare metrics accordingly.
+
+**Gender Filter:** Enables deeper analysis of performance and participation based on gender.
 
 **Key findings:**
+
+**High Participation Rate Among Gen Z:** The data reveals that Generation Z athletes exhibit the highest participation rates and have also secured the most medals. This suggests a promising future for this demographic and underscores the importance of continued investment in their development. Increased visibility, encouragement, and support structures should be prioritized to maximize their potential.
+
+**Steady Growth in Participation:** There has been a consistent increase in the number of participants over time, reflecting growing global interest and inclusivity in the Olympic Games. This trend calls for continued enhancements in sporting infrastructure, the creation of inclusive environments, and equal opportunities for all athletes. Moreover, the use of advanced equipment and technologies can further support strategic planning and long-term development.
+
+**Consistent Dominance by Certain Countries:** The analysis also highlights that some countries have maintained a dominant presence in the Olympics across various games. This consistency provides a learning opportunity for other nations to study and potentially adopt similar practices, policies, and training programs to improve their performance on the global stage.
+
+**Conclusion:**
+
+This dashboard serves as a strategic tool for a range of stakeholders, including national sports federations, local organizing committees, and international sporting bodies. It provides actionable insights to inform decision-making, optimize resource allocation, and shape long-term strategies. By leveraging the findings from this analysis, stakeholders can work towards improving athlete performance, enhancing global competitiveness, and fostering a more inclusive and dynamic Olympic movement.
 
 **Dashboard Overview:** 
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
