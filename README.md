@@ -296,6 +296,7 @@ The dashboard is equipped with a range of metrics and visual tools, including:
 **Influential Psychological Factors:** The study identified insecurity, anxiety, and depression as the leading psychological factors driving student discrimination. Their fluctuation over time offers valuable insight into behavioral patterns and can be leveraged to adapt emotional wellness strategies and mental health interventions accordingly.
 
 **Conclusion:**
+
 This project delivers a powerful, data-driven tool aimed at empowering educational institutions and student wellness bodies. By providing clear, actionable insights through an interactive and user-friendly dashboard, stakeholders are better equipped to understand the scope and impact of discrimination on student mental health. The analysis supports strategic planning and policy-making, ultimately contributing to safer, more supportive academic environments.
 
 **Dashboard Overview:** 
