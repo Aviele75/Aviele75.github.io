@@ -81,6 +81,8 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
  
 **Project Description:**
+
+This project involves comprehensive SQL-based analysis and manipulation of sales data across three relational tables: Salesman, Customer, and Order. The tasks include data cleaning, data joining, conditional filtering, and generating analytical reports. Through structured queries, the analysis explores relationships between salespeople and customers, evaluates commission patterns, examines order trends, and identifies geographic dynamics. The project demonstrates the practical application of SQL for data interrogation and business insights, supporting decision-making processes in a sales-driven environment.
  
 **Technology used:** SQL server
 
