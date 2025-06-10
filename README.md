@@ -151,13 +151,50 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 
 # Project 4 
 
-**Title:** [Shopping Trend Analysis Report]()							
+**Title:** [Shopping Trend Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Shopping%20Trends.xlsx)							
 							
-**Tools Used:** Microsoft Excel - Pivot Table, Slicer,
+**Tools Used:** Microsoft Excel - Data Cleaning, Data Analysis, Pivot Table, Dashboard Visualisation, Slicer,
 
 **Project Description:** 
+This project focused on analyzing customer purchasing data to uncover trends and patterns in sales performance for the year 2024. The primary objective was to deliver a comprehensive, data-driven overview of key performance indicators (KPIs) to support strategic decision-making. A dynamic and interactive dashboard was developed to enable stakeholders to monitor and assess various aspects of customer behavior and store performance across different dimensions, including geographic location, product categories, gender demographics, and payment methods.
+
+The dashboard incorporates a range of critical metrics and visual representations to facilitate easy data interpretation. Key Performance Indicators Monitored:
+
+**Total Sales Revenue:** Aggregated income generated from all sales transactions.
+
+**Total Customer Orders:** Number of purchases completed by customers.
+
+**Average Customer Rating:** Mean value of customer satisfaction scores based on post-purchase reviews.
+
+Dashboard Features and Visualizations:
+
+**Top 5 Sales Revenue by Location:** A visual breakdown showcasing the five highest-performing states in terms of revenue. This component highlights geographical market strengths and supports regional performance assessments.
+
+**Customer Orders by Gender:** A demographic analysis displaying the number of orders segmented by gender. This visualization aids in understanding customer distribution and refining segmentation strategies.
+
+**Percentage of Customer Orders by Product Category:** This chart illustrates the share of total orders represented by each product category. It provides insights into category-level performance and customer preferences.
+
+**Sales Revenue by Payment Type:** An evaluation of sales revenue generated through different payment methods. This view informs decisions on enhancing or promoting payment channels to improve user convenience and revenue flow.
+
+**Sales Revenue by Shipping Type:** A detailed breakdown showing how various shipping options contribute to order volume and sales revenue. This feature offers valuable insights for optimizing logistics and fulfillment operations.
+
+Interactive Filters (Slicers):
+
+**Payment Mode:** Allows users to filter data by payment type to assess specific channel performance.
+
+**Product Category:** Enables drill-down analysis into individual product categories for deeper performance evaluation.
 
 **Key findings:**
+
+**High-Performing and Underperforming States:** The analysis successfully highlighted states with the highest revenue contributions, as well as those with lower-than-expected performance. This information is instrumental in identifying areas for strategic expansion and resource reallocation.
+
+**Top Product Categories and Effective Shipping Channels:** The dashboard identified the most profitable product categories and the most efficient shipping methods. These findings support targeted marketing strategies and improvements in supply chain efficiency.
+
+**Sales Volatility and Consumer Behavior Trends:** Monthly sales trend analysis revealed fluctuations tied to broader market dynamics and customer behavior patterns. These observations equip management with the foresight to anticipate demand shifts and adapt business strategies accordingly.
+
+**Conclusion:**
+
+This sales performance dashboard serves as an essential analytical tool for the stateholders and the management. By providing clear, actionable insights across multiple business dimensions, it empowers informed decision-making, enhances strategic planning, and supports operational optimization. The visualizations and interactive components ensure that users at all levels can engage with the data meaningfully, fostering a data-driven culture within the organization.
 
 **Dashboard Overview:** 
 ![Shopping_Trend_Analysis](Shopping_Trend_Analysis.PNG)
