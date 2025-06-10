@@ -151,7 +151,7 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 
 # Project 4 
 
-**Title:** [Shipping Trend Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Shopping%20Trends.xlsx)							
+**Title:** [Shopping Trend Analysis Report]()							
 							
 **Tools Used:** Microsoft Excel - Pivot Table, Slicer,
 
@@ -160,7 +160,7 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 **Key findings:**
 
 **Dashboard Overview:** 
-![Shipping_Trend_Analysis_Report](Shipping_Trend_Analysis_Report.PNG)
+![Shopping_Trend_Analysis](Shopping_Trend_Analysis.PNG)
 
 # Project 5 
 
