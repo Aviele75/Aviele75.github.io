@@ -149,7 +149,39 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 **Dashboard Overview:** 
 ![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
 
-# Project 4 
+
+# Project 3
+
+**Title:** AdventureWorks 2024 Project: SQL Data Query and Manipulation
+
+**SQL Code:** [Sales Record SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Sales_Record.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT, AVRAGE): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering and Sorting (WHERE, BETWEEN, IN, AND, GROUPBY, HAVING, ORDERBY): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+ 
+**Project Description:**
+
+This project involves the exploration and manipulation of the AdventureWorks 2024 database, a sample enterprise-level SQL Server database that simulates the operational structure of a manufacturing company. The goal is to write optimized and logically structured Transact-SQL (T-SQL) queries to answer business questions, analyze employee and product data, and create meaningful views and data segmentations to support managerial insights.
+
+**Project Objectives:**
+
+Extract and filter relevant datasets using precise conditional logic.
+
+Perform data transformation and value categorization.
+
+Use SQL joins to combine data from multiple related tables.
+
+Apply aggregate functions, groupings, and views to derive business insights.
+
+Implement business rules such as segmentation, pricing policies, and eligibility tracking.
+ 
+**Technology used:** SQL server
+
+
+# Project 5 
 
 **Title:** [Shopping Trend Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Shopping%20Trends.xlsx)							
 							
@@ -199,7 +231,7 @@ This sales performance dashboard serves as an essential analytical tool for the 
 **Dashboard Overview:** 
 ![Shopping_Trend_Analysis](Shopping_Trend_Analysis.PNG)
 
-# Project 5 
+# Project 6 
 
 **Title:** [Auto Car Dealer Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
 
@@ -257,7 +289,7 @@ The sales performance dashboard developed through this project serves as a vital
 **Dashboard Overview:** 
 ![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
 
-# Project 6 
+# Project 7 
 
 **Title:** [Cardiology Patient Medical Analysis Report- 2023](https://github.com/Aviele75/Aviele75.github.io/blob/main/Cardiology%20Patient%20Analysis%20Report%202023.xlsx)							
 							
@@ -308,7 +340,7 @@ This dashboard serves as a vital tool for healthcare professionals and managemen
 ![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
 
 
-# Project 7 
+# Project 8 
 
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
@@ -364,7 +396,7 @@ This dashboard serves as a strategic tool for a range of stakeholders, including
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
 
 
-# Project 8 
+# Project 9 
 
 **Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
 
