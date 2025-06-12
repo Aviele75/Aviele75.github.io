@@ -150,9 +150,9 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 ![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
 
 
-# Project 3
+# Project 4
 
-**Title:** AdventureWorks 2024 Project: SQL Data Query and Manipulation
+**Title:** Adventure Works 2024 Project: SQL Data Query and Manipulation
 
 **SQL Code:** [Adventure Works 2024 SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
 
