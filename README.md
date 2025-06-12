@@ -154,7 +154,7 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 
 **Title:** AdventureWorks 2024 Project: SQL Data Query and Manipulation
 
-**SQL Code:** [Sales Record SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Sales_Record.sql)
+**SQL Code:** [Adventure Works 2024 SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
 
 **SQL Skills Used:** 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
