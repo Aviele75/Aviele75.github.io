@@ -66,25 +66,36 @@ This sales performance dashboard stands as a vital tool for the management team 
 **Dashboard Overview:** 
 ![VindaStore](VindaStore.PNG)
 
-
-
 # Project 2
 
-**Title:** Sales Record-SQL Data Manipulation and Interogation
+**Title:** Adventure Works 2024 Project: SQL Data Query and Manipulation
 
-**SQL Code:** [Sales Record SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Sales_Record.sql)
+**SQL Code:** [Adventure Works 2024 SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
 
 **SQL Skills Used:** 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Aggregation (SUM, COUNT, AVRAGE): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering and Sorting (WHERE, BETWEEN, IN, AND, GROUPBY, HAVING, ORDERBY): Applied filters to select relevant data, including filtering by ranges and lists.
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
  
 **Project Description:**
 
-This project involves comprehensive SQL-based analysis and manipulation of sales data across three relational tables: Salesman, Customer, and Order. The tasks include data cleaning, data joining, conditional filtering, and generating analytical reports. Through structured queries, the analysis explores relationships between salespeople and customers, evaluates commission patterns, examines order trends, and identifies geographic dynamics. The project demonstrates the practical application of SQL for data interrogation and business insights, supporting decision-making processes in a sales-driven environment.
+This project involves the exploration and manipulation of the AdventureWorks 2024 database, a sample enterprise-level SQL Server database that simulates the operational structure of a manufacturing company. The goal is to write optimized and logically structured Transact-SQL (T-SQL) queries to answer business questions, analyze employee and product data, and create meaningful views and data segmentations to support managerial insights.
+
+
+**Project Objectives:**
+
+Extract and filter relevant datasets using precise conditional logic.
+
+Perform data transformation and value categorization.
+
+Use SQL joins to combine data from multiple related tables.
+
+Apply aggregate functions, groupings, and views to derive business insights.
+
+Implement business rules such as segmentation, pricing policies, and eligibility tracking.
  
-**Technology used:** SQL server
+**Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
 # Project 3 
 
@@ -152,34 +163,21 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 
 # Project 4
 
-**Title:** Adventure Works 2024 Project: SQL Data Query and Manipulation
+**Title:** Pizza Saless Record: SQL Data Query and Manipulation
 
-**SQL Code:** [Adventure Works 2024 SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
+**SQL Code:** [Pizza Sales Record SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Pizza_Sales.sql)
 
 **SQL Skills Used:** 
 Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT, AVRAGE): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering and Sorting (WHERE, BETWEEN, IN, AND, GROUPBY, HAVING, ORDERBY): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering and Sorting (WHERE, BETWEEN, AND, GROUPBY, ORDERBY): Applied filters to select relevant data, including filtering by ranges and lists.
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
  
 **Project Description:**
 
-This project involves the exploration and manipulation of the AdventureWorks 2024 database, a sample enterprise-level SQL Server database that simulates the operational structure of a manufacturing company. The goal is to write optimized and logically structured Transact-SQL (T-SQL) queries to answer business questions, analyze employee and product data, and create meaningful views and data segmentations to support managerial insights.
+This project involves the analysis and querying of a structured Pizza Sales Dataset using SQL to derive meaningful insights into sales performance, customer preferences, and revenue generation trends. The primary goal is to understand business operations through transactional data and to provide actionable metrics that can support strategic decision-making for a pizza business. This Pizza Sales Data Analysis project demonstrates the practical application of SQL in real-world business scenarios. By efficiently querying and manipulating structured sales data, we uncovered valuable insights that can aid in operational improvements and data-driven decision-making for a pizza business.
 
-**Project Objectives:**
-
-Extract and filter relevant datasets using precise conditional logic.
-
-Perform data transformation and value categorization.
-
-Use SQL joins to combine data from multiple related tables.
-
-Apply aggregate functions, groupings, and views to derive business insights.
-
-Implement business rules such as segmentation, pricing policies, and eligibility tracking.
- 
-**Technology used:** SQL server
-
+**Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
 # Project 5 
 
@@ -231,7 +229,25 @@ This sales performance dashboard serves as an essential analytical tool for the 
 **Dashboard Overview:** 
 ![Shopping_Trend_Analysis](Shopping_Trend_Analysis.PNG)
 
-# Project 6 
+# Project 6
+
+**Title:** Sales Record-SQL Data Manipulation and Interogation
+
+**SQL Code:** [Sales Record SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Sales_Record.sql)
+
+**SQL Skills Used:** 
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+ 
+**Project Description:**
+
+This project involves comprehensive SQL-based analysis and manipulation of sales data across three relational tables: Salesman, Customer, and Order. The tasks include data cleaning, data joining, conditional filtering, and generating analytical reports. Through structured queries, the analysis explores relationships between salespeople and customers, evaluates commission patterns, examines order trends, and identifies geographic dynamics. The project demonstrates the practical application of SQL for data interrogation and business insights, supporting decision-making processes in a sales-driven environment.
+ 
+**Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
+
+# Project 7 
 
 **Title:** [Auto Car Dealer Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
 
@@ -289,7 +305,7 @@ The sales performance dashboard developed through this project serves as a vital
 **Dashboard Overview:** 
 ![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
 
-# Project 7 
+# Project 8 
 
 **Title:** [Cardiology Patient Medical Analysis Report- 2023](https://github.com/Aviele75/Aviele75.github.io/blob/main/Cardiology%20Patient%20Analysis%20Report%202023.xlsx)							
 							
@@ -340,12 +356,11 @@ This dashboard serves as a vital tool for healthcare professionals and managemen
 ![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
 
 
-# Project 8 
+# Project 9 
 
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
 **Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers and page navigation.
-
 
 **Project Description:** 
 This project presents a comprehensive analysis of historical Olympic Games data spanning from 1896 to 2016, with a focus on identifying trends and patterns in track and field events. The primary objective is to offer valuable insights into key performance metrics, contextualized by notable historical events that may have influenced participation and outcomes. The final deliverable is an interactive dashboard designed to help stakeholders easily monitor and assess the performance of athletes and countries across various editions of the Olympic Games.
@@ -396,7 +411,7 @@ This dashboard serves as a strategic tool for a range of stakeholders, including
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
 
 
-# Project 9 
+# Project 10 
 
 **Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
 
