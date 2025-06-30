@@ -309,7 +309,7 @@ The sales performance dashboard developed through this project serves as a vital
 
 **Title:** Football Player Project: SQL Data Query and Manipulation
 
-**SQL Code:** [Football Players SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
+**SQL Code:** [Football Players SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Football_Players.Sql)
 
 **SQL Skills Used:** 
 This project demonstrates a wide range of SQL querying techniques, including:
