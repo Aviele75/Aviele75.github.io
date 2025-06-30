@@ -305,7 +305,47 @@ The sales performance dashboard developed through this project serves as a vital
 **Dashboard Overview:** 
 ![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
 
-# Project 8 
+# Project 8
+
+**Title:** Football Player Project: SQL Data Query and Manipulation
+
+**SQL Code:** [Football Players SQL Code](https://github.com/Aviele75/Aviele75.github.io/blob/main/Adventure_Works.sql)
+
+**SQL Skills Used:** 
+This project demonstrates a wide range of SQL querying techniques, including:
+Data filtering using WHERE clauses with conditions on team, position, height, weight, college, age, and experience.
+Aggregate functions such as AVG, MAX, MIN, and COUNT to summarize player statistics.
+Grouping and Aggregation using GROUP BY along with HAVING to extract grouped insights.
+Window functions like RANK() and ROW_NUMBER() to perform ranking operations within partitions (e.g., ranking players by age within their teams).
+Subqueries for comparisons against calculated aggregates such as team or position averages.
+Ordering and sorting with ORDER BY to organize query results logically.
+Join-like comparisons through correlated subqueries for team- and position-level analysis.
+ 
+**Project Description:**
+
+This project involves a structured SQL-based analysis of a football player dataset containing detailed player information such as name, team, position, height, weight, age, experience level, and college attended.
+Through a series of 20 well-defined queries, the project explores different aspects of the dataset to uncover insights such as: Listing players based on specific attributes (e.g., team, position, college),
+Identifying players with missing or unusual data entries (e.g., missing age), Determining statistical extremes (e.g., tallest or heaviest players), Comparing players against team or positional averages, 
+Analyzing player distributions based on age, experience, height, and weight and Aggregating player counts and calculating percentages by position and team.
+
+The analysis provides both granular and aggregated views of player data, supporting a range of use cases including scouting, performance benchmarking, and team composition evaluation.
+
+**Project Objectives:**
+
+The primary objective of this project is to perform a comprehensive analysis of football player data using SQL, enabling:
+Extraction of specific subsets of players based on various criteria.
+Identification of trends and outliers related to height, weight, experience, and age.
+Comparative analysis of players within teams and positions.
+Summary statistics and rankings to support sports analytics decisions.
+Data validation and exploration of missing or anomalous values.
+
+By systematically answering 20 targeted questions, the project aims to demonstrate how SQL can be effectively used to explore, analyze, and extract actionable insights from structured sports data.
+
+ 
+**Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
+
+
+# Project 9 
 
 **Title:** [Cardiology Patient Medical Analysis Report- 2023](https://github.com/Aviele75/Aviele75.github.io/blob/main/Cardiology%20Patient%20Analysis%20Report%202023.xlsx)							
 							
@@ -356,7 +396,7 @@ This dashboard serves as a vital tool for healthcare professionals and managemen
 ![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
 
 
-# Project 9 
+# Project 10 
 
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
@@ -411,7 +451,7 @@ This dashboard serves as a strategic tool for a range of stakeholders, including
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
 
 
-# Project 10 
+# Project 11 
 
 **Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
 
