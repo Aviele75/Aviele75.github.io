@@ -5,19 +5,26 @@
 **Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers, drill through and page navigation.
 
 **Project Description:** 
+
 The project focused on analysing residential real estate data over five years (2020–2025) to uncover trends and patterns related to tenant retention and operational optimization. The objective was to deliver a robust and interactive dashboard that provides a holistic view of key performance indicators (KPIs) relevant to tenant behaviour, lease performance, and financial efficiency across various properties.
 The dashboard is designed to empower stakeholders with data-driven insights, allowing them to monitor, evaluate, and make informed decisions around tenant satisfaction, rent collection, and lease management. By consolidating complex datasets into a user-friendly interface, the tool enables a deep dive into the factors that influence tenant retention and property performance.
 
 **Key Performance Indicators (KPIs):**
 
 The dashboard tracks and visualizes the following core metrics:
+
 **Tenant Churn Rate**
+
 **Average Tenant Satisfaction Score**
+
 **Average Occupancy Rate**
+
 **Average Monthly Rent**
+
 **Percentage of Rent Collected**
 
 **Highlighted Features:**
+
 **Churn Status and Satisfaction Score by Property Type:**
 A breakdown of churn rates and satisfaction scores segmented by property type offers insights into how different property categories impact tenant sentiment and turnover.
 
@@ -31,14 +38,21 @@ Graphical analysis of tenant feedback, highlighting satisfaction levels and key 
 Comparative visualization showing the proportion of leases renewed against those that expired or were terminated, providing clarity on lease retention effectiveness.
 
 **Temporal Analyses - Monthly breakdowns of:**
+
 Tenant churn status
+
 Renewed versus expired leases
+
 Average satisfaction scores
+
 Rent collection performance
 
 **Interactive Slicers for Dynamic Analysis:**
+
 **Month Selector** – Enables month-by-month performance review.
+
 **Year Selector** – Filters data across specific years for trend analysis.
+
 **Property Type Filter** – Allows stakeholders to drill down into individual property types for focused performance evaluation.
 
 **Key Insights & Findings:**
@@ -73,10 +87,12 @@ Address areas identified in tenant feedback that influence satisfaction, such as
 Improve financial operations by identifying and addressing inefficiencies in rent collection. Implementing digital payment platforms or incentives for timely payments could support better cash flow and tenant compliance.
 
 **Conclusion:**
+
 The developed dashboard serves as a vital strategic tool for the residential real estate management team and stakeholders. By consolidating critical data into an intuitive interface, it enables clear and actionable insights that support evidence-based decision-making. This tool is instrumental in driving tenant retention, operational efficiency, and long-term business growth.
 
 **Dashboard Overview:** 
-![Tenant_Retention_Optimization_Report](Tenant Retention Optimization - Real Estate.PNG1.PNG)
+![Tenant_Retention_Optimization_Report](Tenant Retention Optimization - Real Estate.PNG1.PNG
+)
 
 # Project 1 
 
