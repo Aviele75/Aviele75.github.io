@@ -1,5 +1,84 @@
 # Project 1 
 
+**Title:** [Tenant Retention Optimization Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
+**Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers, drill through and page navigation.
+
+**Project Description:** 
+The project focused on analysing residential real estate data over five years (2020–2025) to uncover trends and patterns related to tenant retention and operational optimization. The objective was to deliver a robust and interactive dashboard that provides a holistic view of key performance indicators (KPIs) relevant to tenant behaviour, lease performance, and financial efficiency across various properties.
+The dashboard is designed to empower stakeholders with data-driven insights, allowing them to monitor, evaluate, and make informed decisions around tenant satisfaction, rent collection, and lease management. By consolidating complex datasets into a user-friendly interface, the tool enables a deep dive into the factors that influence tenant retention and property performance.
+
+**Key Performance Indicators (KPIs):**
+
+The dashboard tracks and visualizes the following core metrics:
+**Tenant Churn Rate**
+**Average Tenant Satisfaction Score**
+**Average Occupancy Rate**
+**Average Monthly Rent**
+**Percentage of Rent Collected**
+
+**Highlighted Features:**
+**Churn Status and Satisfaction Score by Property Type:**
+A breakdown of churn rates and satisfaction scores segmented by property type offers insights into how different property categories impact tenant sentiment and turnover.
+
+**Lease Term Frequency Distribution:**
+Visual representation of lease term durations, illustrating the distribution of tenant preferences and potential links to retention patterns.
+
+**Satisfaction Score by Survey Responses:**
+Graphical analysis of tenant feedback, highlighting satisfaction levels and key themes from survey responses.
+
+**Renewed vs. Expired Leases**
+Comparative visualization showing the proportion of leases renewed against those that expired or were terminated, providing clarity on lease retention effectiveness.
+
+**Temporal Analyses - Monthly breakdowns of:**
+Tenant churn status
+Renewed versus expired leases
+Average satisfaction scores
+Rent collection performance
+
+**Interactive Slicers for Dynamic Analysis:**
+**Month Selector** – Enables month-by-month performance review.
+**Year Selector** – Filters data across specific years for trend analysis.
+**Property Type Filter** – Allows stakeholders to drill down into individual property types for focused performance evaluation.
+
+**Key Insights & Findings:**
+
+**Seasonal Churn Patterns:**
+The monthly churn rate visualization reveals recurring seasonal trends, with certain periods showing higher tenant turnover. These patterns indicate when targeted retention strategies may be most impactful.
+
+**Lease Term Preferences and Retention:**
+Analysis of lease duration preferences shows a correlation between specific term lengths and tenant retention, suggesting the potential value in adjusting lease offerings to better align with tenant behaviour.
+
+**Satisfaction as a Retention Driver:**
+A clear relationship exists between satisfaction scores and tenant retention. Properties with higher satisfaction ratings exhibit lower churn, underlining the importance of tenant experience in retention strategies.
+
+**Financial Operations and Efficiency:**
+Rent collection data offers insight into the operational and financial health of the properties. Trends in payment consistency and collection efficiency can indicate areas for process improvement or automation.
+
+**Renewal Strategy Effectiveness:**
+Comparing renewed and expired leases over time helps gauge the success of implemented retention strategies and identifies periods where adjustments may be needed.
+
+**Recommendations:**
+
+**Implement Targeted Retention Initiatives:**
+Use seasonal churn data to launch proactive retention programs during high-risk periods. These could include personalized outreach, loyalty incentives, or community engagement events.
+
+**Align Lease Offerings with Tenant Preferences:**
+Where data indicates a preference for certain lease lengths, consider adapting offerings to meet these preferences. Flexibility in lease terms may encourage longer stays and reduce churn.
+
+**Focus on Enhancing Tenant Satisfaction:**
+Address areas identified in tenant feedback that influence satisfaction, such as amenities, maintenance responsiveness, and community atmosphere to foster stronger tenant relationships.
+
+**Optimize Rent Collection Processes:**
+Improve financial operations by identifying and addressing inefficiencies in rent collection. Implementing digital payment platforms or incentives for timely payments could support better cash flow and tenant compliance.
+
+**Conclusion:**
+The developed dashboard serves as a vital strategic tool for the residential real estate management team and stakeholders. By consolidating critical data into an intuitive interface, it enables clear and actionable insights that support evidence-based decision-making. This tool is instrumental in driving tenant retention, operational efficiency, and long-term business growth.
+
+**Dashboard Overview:** 
+![Tenant_Retention_Optimization_Report](Auto_Car_Dealer_Analysis_Report.PNG)
+
+# Project 1 
+
 **Title:** [Vrinda Store Sales  Report - 2022](https://github.com/Aviele75/Aviele75.github.io/blob/main/03%20-%20Data%20Analyst%20Excel%20Project%20-%20Virinda%20Store.xlsx)							
 							
 **Tools Used:** Microsoft Excel - Data Cleaning, Data Analysis, Charts, Pivot Table, Slicer,Timeline
