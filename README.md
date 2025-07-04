@@ -1,6 +1,7 @@
 # Project 1 
 
 **Title:** [Tenant Retention Optimization Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
+
 **Tools Used:** PowerBI, Data Transformation and Cleaning using Power Query Editor, Data Modelling, DAX writing, Dashboard Building and Visualization using charts, slicers, drill through and page navigation.
 
 **Project Description:** 
@@ -75,7 +76,7 @@ Improve financial operations by identifying and addressing inefficiencies in ren
 The developed dashboard serves as a vital strategic tool for the residential real estate management team and stakeholders. By consolidating critical data into an intuitive interface, it enables clear and actionable insights that support evidence-based decision-making. This tool is instrumental in driving tenant retention, operational efficiency, and long-term business growth.
 
 **Dashboard Overview:** 
-![Tenant_Retention_Optimization_Report](Auto_Car_Dealer_Analysis_Report.PNG)
+![Tenant_Retention_Optimization_Report](Tenant Retention Optimization - Real Estate.PNG1.PNG)
 
 # Project 1 
 
