@@ -23,6 +23,7 @@ The dashboard tracks and visualizes the following core metrics:
 
 **Percentage of Rent Collected**
 
+
 **Highlighted Features:**
 
 **Churn Status and Satisfaction Score by Property Type:**
@@ -47,6 +48,7 @@ Average satisfaction scores
 
 Rent collection performance
 
+
 **Interactive Slicers for Dynamic Analysis:**
 
 **Month Selector** – Enables month-by-month performance review.
@@ -54,6 +56,7 @@ Rent collection performance
 **Year Selector** – Filters data across specific years for trend analysis.
 
 **Property Type Filter** – Allows stakeholders to drill down into individual property types for focused performance evaluation.
+
 
 **Key Insights & Findings:**
 
@@ -72,6 +75,7 @@ Rent collection data offers insight into the operational and financial health of
 **Renewal Strategy Effectiveness:**
 Comparing renewed and expired leases over time helps gauge the success of implemented retention strategies and identifies periods where adjustments may be needed.
 
+
 **Recommendations:**
 
 **Implement Targeted Retention Initiatives:**
@@ -86,6 +90,7 @@ Address areas identified in tenant feedback that influence satisfaction, such as
 **Optimize Rent Collection Processes:**
 Improve financial operations by identifying and addressing inefficiencies in rent collection. Implementing digital payment platforms or incentives for timely payments could support better cash flow and tenant compliance.
 
+
 **Conclusion:**
 
 The developed dashboard serves as a vital strategic tool for the residential real estate management team and stakeholders. By consolidating critical data into an intuitive interface, it enables clear and actionable insights that support evidence-based decision-making. This tool is instrumental in driving tenant retention, operational efficiency, and long-term business growth.
@@ -93,7 +98,8 @@ The developed dashboard serves as a vital strategic tool for the residential rea
 **Dashboard Overview:** 
 ![Tenant_Retention_Optimization_Report](Tenant_Retention_Optimization.PNG)
 
-# Project 1 
+
+# Project 2 
 
 **Title:** [Vrinda Store Sales  Report - 2022](https://github.com/Aviele75/Aviele75.github.io/blob/main/03%20-%20Data%20Analyst%20Excel%20Project%20-%20Virinda%20Store.xlsx)							
 							
@@ -161,7 +167,7 @@ This sales performance dashboard stands as a vital tool for the management team 
 **Dashboard Overview:** 
 ![VindaStore](VindaStore.PNG)
 
-# Project 2
+# Project 3
 
 **Title:** Adventure Works 2024 Project: SQL Data Query and Manipulation
 
@@ -192,7 +198,7 @@ Implement business rules such as segmentation, pricing policies, and eligibility
  
 **Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
-# Project 3 
+# Project 4 
 
 **Title:** [HR Employee Attrition Report 2012-2022](https://github.com/Aviele75/Aviele75.github.io/blob/main/HR%20EMPLOYEE%20ATTRITION.pbix)														
 
@@ -256,7 +262,7 @@ By offering a clear and comprehensive view of staff dynamics over a decade, the 
 ![Employee_Attrition_Report](Employee_Attrition_Report.PNG)
 
 
-# Project 4
+# Project 5
 
 **Title:** Pizza Saless Record: SQL Data Query and Manipulation
 
@@ -274,7 +280,7 @@ This project involves the analysis and querying of a structured Pizza Sales Data
 
 **Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
-# Project 5 
+# Project 6 
 
 **Title:** [Shopping Trend Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Shopping%20Trends.xlsx)							
 							
@@ -324,7 +330,7 @@ This sales performance dashboard serves as an essential analytical tool for the 
 **Dashboard Overview:** 
 ![Shopping_Trend_Analysis](Shopping_Trend_Analysis.PNG)
 
-# Project 6
+# Project 7
 
 **Title:** Sales Record-SQL Data Manipulation and Interogation
 
@@ -342,7 +348,7 @@ This project involves comprehensive SQL-based analysis and manipulation of sales
  
 **Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
-# Project 7 
+# Project 8 
 
 **Title:** [Auto Car Dealer Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/CAR%20DEALER%20REPORT%20ANALYSIS.pbix)													
 
@@ -400,7 +406,7 @@ The sales performance dashboard developed through this project serves as a vital
 **Dashboard Overview:** 
 ![Auto_Car_Dealer_Analysis_Report](Auto_Car_Dealer_Analysis_Report.PNG)
 
-# Project 8
+# Project 9
 
 **Title:** Football Player Project: SQL Data Query and Manipulation
 
@@ -440,7 +446,7 @@ By systematically answering 20 targeted questions, the project aims to demonstra
 **Technology used:** SQL Server Management Studio (SSMS) for querying and managing the database, T-SQL (Transact-SQL) syntax for writing and executing queries and Relational Database concepts for structured data manipulation.
 
 
-# Project 9 
+# Project 10 
 
 **Title:** [Cardiology Patient Medical Analysis Report- 2023](https://github.com/Aviele75/Aviele75.github.io/blob/main/Cardiology%20Patient%20Analysis%20Report%202023.xlsx)							
 							
@@ -491,7 +497,7 @@ This dashboard serves as a vital tool for healthcare professionals and managemen
 ![Cardiology_Patient_Analysis_Report](Cardiology_Patient_Analysis_Report.PNG)
 
 
-# Project 10 
+# Project 11 
 
 **Title:** [Olympic Game Report Analysis 1896-2016](https://github.com/Aviele75/Aviele75.github.io/blob/main/OLYMPIC%20GAME%20REPORT.pbix)													
 
@@ -546,7 +552,7 @@ This dashboard serves as a strategic tool for a range of stakeholders, including
 ![Olympic_Game_Report](Olympic_Game_Report.PNG)
 
 
-# Project 11 
+# Project 12 
 
 **Title:** [Mental Health Analysis Report](https://github.com/Aviele75/Aviele75.github.io/blob/main/Mental%20Health%20Analysis2.pbix)													
 
