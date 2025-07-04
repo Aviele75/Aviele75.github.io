@@ -91,8 +91,7 @@ Improve financial operations by identifying and addressing inefficiencies in ren
 The developed dashboard serves as a vital strategic tool for the residential real estate management team and stakeholders. By consolidating critical data into an intuitive interface, it enables clear and actionable insights that support evidence-based decision-making. This tool is instrumental in driving tenant retention, operational efficiency, and long-term business growth.
 
 **Dashboard Overview:** 
-![Tenant_Retention_Optimization_Report](Tenant Retention Optimization - Real Estate.PNG1.PNG
-)
+![Tenant_Retention_Optimization_Report](Tenant_Retention_Optimization.PNG)
 
 # Project 1 
 
